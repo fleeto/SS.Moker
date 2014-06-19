@@ -1,0 +1,4 @@
+{
+  "RspCode": "0000",
+  "RspDesc": "_|{'type':'datafile', 'name': 'sample', 'method': 'random', 'pattern': '%s'}|_"
+}

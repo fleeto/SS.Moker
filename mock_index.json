@@ -1,0 +1,20 @@
+[
+    {
+        "path": "/sendmesreq/\\d+",
+        "datafile": "sendsms.json",
+        "request": {
+            "url": "1",
+            "encoding": "utf-8",
+            "format": "json"
+        },
+        "method": ["POST", "GET"],
+        "response": {
+            "url": 0,
+            "encoding": "utf-8",
+            "format": "json",
+            "header": {
+                "content-type": "application/json"
+            }
+        }
+    }
+]
